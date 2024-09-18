@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @toggen
-- 👀 I’m interested in sql, python, r, bash and maybe some powershell, but only on good days. 
 - 🌱 I’m currently learning how to eat spaghetti without getting my shirt wasted. 
 
 <!---
